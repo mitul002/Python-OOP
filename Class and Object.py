@@ -1,4 +1,3 @@
-#Create class
 class student:
     id=""
     section=""
