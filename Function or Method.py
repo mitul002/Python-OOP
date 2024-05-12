@@ -1,8 +1,9 @@
 
 #Create class
 class student:
-    id_no=""
+    '''id_no=""
     section=""
+       '''  # If we use method or constructor we don't need to use this part
 
    #Method/Function
     def input(self,id,sec):

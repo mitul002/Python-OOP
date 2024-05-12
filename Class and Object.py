@@ -5,7 +5,7 @@ class student:
 #Create object
 rahim = student()
 rahim.id="5268"
-student.section="B"
+rahim.section="B"
 
 
 Karim=student()

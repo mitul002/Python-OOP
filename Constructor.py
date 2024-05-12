@@ -3,7 +3,7 @@
 class student:
     '''id_no=""
     section=""
-    ''' #If we use constructor we don't need to use this part
+    ''' #If we use method or constructor we don't need to use this part
 
    #Constructor
     def __init__(self, id,sec):
