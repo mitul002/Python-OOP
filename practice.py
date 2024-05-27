@@ -15,4 +15,4 @@ class football(ball):
 
 
 f1 = football()
-f1.who_i_am()
+f1.zwho_i_am()

@@ -7,13 +7,13 @@ class shape:
         print("Area Method of shape class")
 
 class triangle(shape):
-    def area(self):
+    def area(self): #area is overriden
         area=0.5*self.dim1*self.dim2
         print(f"Area: {area}")
 
 
 class rectangle(shape):
-    def area(self):
+    def area(self): #area is overriden
         area=self.dim1*self.dim2
         print(f"Area: {area}")
 
