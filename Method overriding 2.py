@@ -9,13 +9,13 @@ class shape:
 class triangle(shape):
     def area(self): #area is overriden
         area=0.5*self.dim1*self.dim2
-        print(f"Area: {area}")
+        print(f"Area of triangle: {area}")
 
 
 class rectangle(shape):
     def area(self): #area is overriden
         area=self.dim1*self.dim2
-        print(f"Area: {area}")
+        print(f"Area of rectangle: {area}")
 
 
 t1 = triangle(20,30)

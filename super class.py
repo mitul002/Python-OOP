@@ -8,7 +8,7 @@ class Phone:
 
 class Xiaomi(Phone):
     def ir(self):
-        print("Phone can call")
+        print("Phone can be used as remote")
 
     def m(self):
         super().m()  # Call the parent class's method
